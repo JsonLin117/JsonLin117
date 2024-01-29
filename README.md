@@ -20,17 +20,10 @@
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>    -->
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>  -->
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=JsonLin117&theme=dracula" />
-</div>
-
-###
-
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 
