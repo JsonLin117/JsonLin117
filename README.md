@@ -1,5 +1,7 @@
 <p align="center">
  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=0BF722&background=000000&center=true&multiline=true&width=435&height=100&lines=Hello!;It's+Jason+Lin;Welcome+to+my+GitHub+.+.+.>
+ 
+ <img src=images/life_balance.gif width="134">
 
 
 <!--📏LINE-->
