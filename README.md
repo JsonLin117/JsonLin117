@@ -62,7 +62,7 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsonLin117&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsonLin117&hide=javascript&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JsonLin117)](https://github.com/ryo-ma/github-profile-trophy)
 
