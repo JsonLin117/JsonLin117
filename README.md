@@ -50,15 +50,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/JsonLin117/github-stats-terminal-style/master/github_stats.svg">
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JsonLin117&show_icons=true&theme=merko&border_color=599200">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsonLin117&hide=javascript&theme=merko&layout=compact&border_color=599200&langs_count=6">
-
-
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=JsonLin117&color=0E9C47&style=for-the-badge">
