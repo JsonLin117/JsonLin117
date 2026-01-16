@@ -58,7 +58,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsonLin117&hide=javascript&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JsonLin117)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
